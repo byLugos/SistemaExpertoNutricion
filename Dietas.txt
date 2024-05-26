@@ -1,0 +1,26 @@
+AR - Dividir los platos de comidas con 40% carbohidratos (cereales (arroz, pasta, harinas)legumbres (lentejas,frijoles,garbanzo))40% proteínas(carne de res, pollo, pescado, huevos) y 20% verduras verdes y frutas. Aumentando la ración un 20% más de lo acostumbrado.
+
+BR - Dividir los platos de comidas con 20% carbohidratos (cereales (arroz, pasta, harinas)legumbres (lentejas,frijoles,garbanzo))40% proteínas(carne de res, pollo, pescado, huevos) y 40% verduras verdes y frutas.
+
+HC - Aplicar la dieta AR + Realizar ejercicio nivel alto frecuentemente. Consumir 4 comidas grandes diariamente(agregando dos almuerzos o dos desayunos si es posible)
+
+HCM - Aplicar la dieta AR + Realizar ejercicio nivel alto frecuentemente excepto en semanas menstruales. Consumir 4 comidas grandes diariamente(agregando dos almuerzos o dos desayunos si es posible). Para mujeres, se recomienda un nivel más bajo de carnes rojas.
+
+DC - Aplicar la dieta BR + Realizar ejercicio nivel medio. Consumir 3 comidas grandes y acompañar las mañanas y tardes con frutos secos y frutas para generar saciedad.
+
+DCM - Aplicar la dieta BR + Realizar ejercicio nivel medio. Consumir 3 comidas grandes y acompañar las mañanas y tardes con frutos secos y frutas para generar saciedad. Para mujeres se recomienda consumo constante de agua y suplementos multivitamínicos debido a la pérdida de grasa corporal.
+
+EM - Realizar ejercicio al rededor de 2 a 3 días a la semana, ejercicio exigente que requiera de esfuerzo muscular desgastante. Levantar pesas, natacion, futbol, voleyball, basquetball, trotar + ejercicios anaerobicos  son algunas alternativas.
+
+EA - Realizar ejercicio al rededor de 4 a 7 dias a la semana, ejercicio mucho más exigente, recomendado para personas con conocimientos y habilidades desarolladas en el area deportiva que corresponda. Si es un usuario novato, se recomienda iniciar con EM (Ejercicio nivel medio)
+
+MR - Dividir los platos de comidas con 30% carbohidratos (cereales (arroz, pasta, harinas)legumbres (lentejas,frijoles,garbanzo))40% proteínas(carne de res, pollo, pescado, huevos) y 30% verduras verdes y frutas. Manteniendo una racion normal que permita llegar a la siguiente comida con suficiente sensacion de hambre. Acompañar los desayunos y almuerzos con fruta para generar saciedad.
+
+DSL - Dieta sin lácteos, esto incluye no consumir leche ni derivados (queso, helado, crema de leche). Se puede sumplementar con algunas leches de origen vegetal, aunque, se ha demostrado que pueden ser negativas a futuro.
+
+DINAR - Dividir los platos de comidas con 10% carbohidratos (cereales (arroz, pasta, harinas)legumbres (lentejas,frijoles,garbanzo))40% proteínas(carne de res, pollo, pescado, huevos) y 50% verduras verdes y frutas.
+Aumentar la ración un 20% aproximadamente, teniendo en cuenta consumir frutas con cáscara y vegetales verdes. Se debe controlar constantemente los niveles de glucosa en sangre, evitando alimentos altamente aportantes de la anterior mencionada.
+
+DINDR - Dividir los platos de comidas con 10% carbohidratos (cereales (arroz, pasta, harinas)legumbres (lentejas,frijoles,garbanzo))40% proteínas(carne de res, pollo, pescado, huevos) y 50% verduras verdes y frutas.
+Disminuir la ración un 20% aproximadamente, teniendo en cuenta consumir frutas con cáscara y vegetales verdes. Se debe controlar constantemente los niveles de glucosa en sangre, evitando alimentos altamente aportantes de la anterior mencionada.
+
